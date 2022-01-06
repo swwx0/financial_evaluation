@@ -2,9 +2,9 @@
 
 FICHIERS ESSENTIELS :
 
-Rendu_Final_1.ipynb
+Rendu_Final_1.ipynb (ATTENTION : Fichier à ouvrir sur Jupyter Notebook)
 
-Rendu_Final_2.ipynb
+Rendu_Final_2.ipynb (ATTENTION : Fichier à ouvrir avec Google Colab)
 
 donnees_python.csv
 
