@@ -3,13 +3,17 @@
 FICHIERS ESSENTIELS :
 
 Rendu_Final_1.ipynb
+
 Rendu_Final_2.ipynb
+
 donnees_python.csv
+
 donnees_python.xlsx
 
 Le projet se découpe en deux parties :
 
 Rendu_Final_1.ipynb
+
 Rendu_Final_2.ipynb
 
 Rendu_Final_1.ipynb renvoie à une analyse fondamentale dont les seuils servant au clustering sont donnés en input arbitrairement selon nos décisions.
