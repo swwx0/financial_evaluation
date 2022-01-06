@@ -2,13 +2,15 @@
 
 FICHIERS ESSENTIELS :
 
+Rendu_Scraping.ipynb (ATTENTION : Fichier à ouvrir avec Google Colab)
+
 Rendu_Final_1.ipynb (ATTENTION : Fichier à ouvrir sur Jupyter Notebook)
 
 Rendu_Final_2.ipynb (ATTENTION : Fichier à ouvrir avec Google Colab)
 
-donnees_python.csv
+donnees_python.csv (output from Rendu_Scraping.ipynb)
 
-donnees_python.xlsx
+donnees_python.xlsx (output from Rendu_Scraping.ipynb)
 
 graphe projet.html (output de Rendu_Final_1.ipynb)
 
