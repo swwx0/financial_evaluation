@@ -10,6 +10,8 @@ donnees_python.csv
 
 donnees_python.xlsx
 
+graphe projet.html (output de Rendu_Final_1.ipynb)
+
 Le projet se découpe en deux parties :
 
 Rendu_Final_1.ipynb
