@@ -2,27 +2,21 @@
 
 FICHIERS ESSENTIELS :
 
-Rendu_Scraping.ipynb (ATTENTION : Fichier à ouvrir avec Google Colab)
+comp_evaluation.ipynb (Rapport sous format notebook (partie scraping incluse dedans au début) (parfaitement fonctionnel sur Colab; certaines bibliothèques doivent être installées sur Jupyter)
 
-Rendu_Final_1.ipynb (ATTENTION : Fichier à ouvrir sur Jupyter Notebook)
+donnees_python.csv (output du scraping)
 
-Rendu_Final_2.ipynb (ATTENTION : Fichier à ouvrir avec Google Colab)
+donnees_python.xlsx (output du scraping)
 
-donnees_python.csv (output from Rendu_Scraping.ipynb)
+graphe projet.html (output de la 1ère partie du rapport)
 
-donnees_python.xlsx (output from Rendu_Scraping.ipynb)
 
-graphe projet.html (output de Rendu_Final_1.ipynb)
 
 Le projet se découpe en deux parties :
 
-Rendu_Final_1.ipynb
+La 1ère partie renvoie à une analyse fondamentale basée sur la construction d'un scoring et d'un gaphe afin de repérer les entreprises ayant les meilleurs ratios.
 
-Rendu_Final_2.ipynb
-
-Rendu_Final_1.ipynb renvoie à une analyse fondamentale basée sur la construction d'un scoring et d'un gaphe afin de repérer les entreprises ayant les meilleurs ratios.
-
-Rendu_Final_2.ipynb renvoie à un clustering des entreprises fait par machine learning, il renvoie les clusters avec les noms des différentes entreprises les constituant.
+La 2ème partie renvoie à un clustering des entreprises fait par machine learning, il renvoie les clusters avec les noms des différentes entreprises les constituant.
 Ces clusters sont alors rangés selon un scoring déterminé arbitrairement.
 
 
